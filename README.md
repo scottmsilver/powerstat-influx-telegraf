@@ -1,6 +1,10 @@
 # powerstat-influx-telegraf
 Outputs stats in influx line protocol format about a CyberPower UPC by querying powerstatd.
 
+
+# Install CyberPower driver
+https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
+
 # Install
 ```
 pip install influx_line_protocol
